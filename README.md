@@ -3,7 +3,7 @@ Codepath prework assignment
 ## Hello World
 
 ### App Description
-`TODO://` Add app description
+Prework assignment to complete application
 
 ### App Walk-though
 
