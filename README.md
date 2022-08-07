@@ -7,7 +7,7 @@ Prework assignment to complete application
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/QQyaAYql5P.gif" width=200><br>
+<img src="https://recordit.co/FEu94Bnddv" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
